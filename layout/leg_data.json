@@ -1,0 +1,1 @@
+{"bones": ["femur", "knee", "ankle", "ankleEnd"], "positions": [[0, 0, 0], [7, 0, -1], [14, 0, 0], [15, 0, 0]], "prefix": ["c", "d"], "type": ["IK", "FK", "RIG"], "ext" : ["LA", "LL", "RA", "RL"]}
